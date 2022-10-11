@@ -4,7 +4,7 @@ import coverImage from "../../assets/cover/cover-image.png";
 function About() {
   return (
     <section className="my-5">
-      <h1 id="about">About Me</h1>
+      <h1 id="about">Sumit Ojha</h1>
       <p>
         {" "}
         I am a Software Developer with knowledge on production of web and mobile
